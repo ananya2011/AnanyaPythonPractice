@@ -1,4 +1,6 @@
 newlist = [6, 7, 8]
+
+
 for t1 in newlist:
     if t1%2==0:
         print(str(t1) + ' It is divisible by two ')
