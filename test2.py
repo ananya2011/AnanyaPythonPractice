@@ -1,0 +1,5 @@
+a= input('enter number 1 \n')
+b= input('enter number 2 \n')
+c= input('enter number 3 \n')
+z= (int (a) + int (b) - int (c))
+print('The calculation(a+b-c) of 3 numbers is ' +   str (z))

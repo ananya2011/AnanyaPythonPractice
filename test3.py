@@ -1,0 +1,5 @@
+v1= input('enter number 1 \n ')
+v2= input('enter number 2\n')
+v3= input('enter number 3\n')
+v4 = (int(v1) + int(v2) + int(v3))
+print(' The sum of 3 numbers is '  + str (v4))

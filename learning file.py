@@ -1,0 +1,12 @@
+v1=1
+print(v1)
+v1=3
+print(v1)
+v1=5
+print(v1)
+v1=7
+print(v1)
+v1=9
+print(v1)
+v1='10/10'
+print(v1)
